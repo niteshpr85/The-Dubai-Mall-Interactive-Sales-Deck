@@ -13,7 +13,11 @@ A cinematic, fully interactive browser-based sales deck for **The Dubai Mall**, 
 
 
 
-https://github.com/user-attachments/assets/2290ee4d-4299-4872-bf25-ed9223f85eca
+
+
+https://github.com/user-attachments/assets/bc18880a-9a1e-4bb4-bc0b-8fb33a516206
+
+
 
 
 
