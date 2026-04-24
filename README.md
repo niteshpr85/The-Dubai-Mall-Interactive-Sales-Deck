@@ -6,9 +6,11 @@ A cinematic, fully interactive browser-based sales deck for **The Dubai Mall**, 
 
 ## Live Demo
 
-**[View Live →](https://pretty-lines-cough.loca.lt)** *(Temporary localtunnel — run `npm run dev` locally for development)*
+**GitHub Repo:** [niteshpr85/The-Dubai-Mall-Interactive-Sales-Deck](https://github.com/niteshpr85/The-Dubai-Mall-Interactive-Sales-Deck)
 
-**Vercel Deployment:** Project is linked (`dubai-mall-deck`). Run `npx vercel login && npx vercel --prod` to deploy to production.
+**Vercel Status:** Project linked (`dubai-mall-deck`). Connect GitHub repo in [Vercel Dashboard](https://vercel.com/dashboard) for auto-deploy.
+
+**Local Preview:** Run `npm run dev` and open [http://localhost:3000](http://localhost:3000)
 
 ---
 
