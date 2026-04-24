@@ -2,9 +2,22 @@
 
 A cinematic, fully interactive browser-based sales deck for **The Dubai Mall**, the world's most visited shopping and entertainment destination. Built as a self-contained web application for screen-shared sales calls and standalone prospect exploration.
 
+<img width="1914" height="853" alt="Screenshot 2026-04-24 120845" src="https://github.com/user-attachments/assets/3b9b2c44-e255-44ea-a3ff-d2e38148c2d8" />
+<img width="1918" height="858" alt="Screenshot 2026-04-24 120909" src="https://github.com/user-attachments/assets/8ea710bf-6856-406a-b0f5-3c106bd7cdf9" />
+
+
+
 ---
 
 ## Live Demo
+
+
+
+https://github.com/user-attachments/assets/2290ee4d-4299-4872-bf25-ed9223f85eca
+
+
+
+
 
 **GitHub Repo:** [niteshpr85/The-Dubai-Mall-Interactive-Sales-Deck](https://github.com/niteshpr85/The-Dubai-Mall-Interactive-Sales-Deck)
 
