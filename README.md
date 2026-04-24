@@ -8,7 +8,7 @@ A cinematic, fully interactive browser-based sales deck for **The Dubai Mall**, 
 
 **GitHub Repo:** [niteshpr85/The-Dubai-Mall-Interactive-Sales-Deck](https://github.com/niteshpr85/The-Dubai-Mall-Interactive-Sales-Deck)
 
-**Vercel Status:** Project linked (`dubai-mall-deck`). Connect GitHub repo in [Vercel Dashboard](https://vercel.com/dashboard) for auto-deploy.
+**Vercel Status:** https://dubai-mall-deck-eta.vercel.app/.
 
 **Local Preview:** Run `npm run dev` and open [http://localhost:3000](http://localhost:3000)
 
